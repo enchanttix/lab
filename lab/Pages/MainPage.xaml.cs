@@ -32,7 +32,7 @@ namespace lab.Pages
 
         private void btn4_Click(object sender, RoutedEventArgs e)
         {
-
+            Classes.FrameClass.frame.Navigate(new _4Page());
         }
 
         private void btn5_Click(object sender, RoutedEventArgs e)
@@ -57,7 +57,7 @@ namespace lab.Pages
 
         private void btn9_Click(object sender, RoutedEventArgs e)
         {
-
+            Classes.FrameClass.frame.Navigate(new _9Page());
         }
 
         private void btn10_Click(object sender, RoutedEventArgs e)
